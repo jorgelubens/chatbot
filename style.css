@@ -25,11 +25,11 @@
       border: none;
       box-shadow: 0 6px 20px rgba(0,0,0,0.5);
       z-index: 9999;
-      transition: transform 0.2s ease;
+      transition: transform 0.3s ease;
     }
 
     #mascot:hover {
-      transform: scale(1.05);
+      transform: scale(1.07);
     }
 
     /* Janela de chat */
